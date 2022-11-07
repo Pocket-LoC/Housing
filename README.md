@@ -12,19 +12,29 @@ The housing is designed for 3D-printing. Although many different options for mat
 The housing was designed in FreeCAD (see .. for files). Ready-to-print models (.stl) can be found in the STL folder. All parts can be printed without support structures.
 
 ### List of parts and tools
-
-
+- 3D-printer
+- dark, opaque printing filament (e.g. [black PETG](https://www.prusa3d.com/product/prusament-petg-jet-black-1kg/)) (approx. 30€)
+- Pocket LoC Sensor incl. FFC -> Link
+- Pocket LoC Pump Controller -> Link
+- Metal rod or nail (approx. 1.7mm diameter) for the hinge
+- 4x [Bartels mp6-liq Micropumps](https://darwin-microfluidics.com/collections/piezo-pumps/products/bartels-mp6-micropump) (128€)
+- [Bartels Pump Driver](https://darwin-microfluidics.com/collections/piezo-pumps/products/mp-highdriver4-pump-driver) (159€)
+- [Tubing](https://darwin-microfluidics.com/collections/silicone-tygon-tubing/products/mp-t-1-3-mm-tygon-tubing-for-bartels-micropumps) (9.50€)
+- 4x [Luer Adapters](https://darwin-microfluidics.com/collections/luer-fittings/products/barbed-to-female-luer-adapter-for-1-16-1-8-and-3-32-id-soft-walled-tubing-pack-of-10?variant=32430390018184) (11.40€)
+- 4x 3ml Syringes as reservoir (approx. 10€ for 100)
+- Microfluidic Chip -> Link
+- Tweezers
 
 ### Assembly
 1.  Print the housing parts found in the STL folder:
-   - Base
-   - Lid
-   - Reservoir holder
-   - Reservoir fixation block (4x)
-   - Chip fixation block (2x)
-   - Sensor cover
+      - Base
+      - Lid
+      - Reservoir holder
+      - Reservoir fixation block (4x)
+      - Chip fixation block (2x)
+      - Sensor cover
    
-2. Connect the FFC cable to the LED board and insert it in the lid.
-3. Thread the FFC cable through the holders in the lid.
+2. Connect the FFC to the LED board and insert it in the lid.
+3. Thread the FFC through the holders in the lid.
 4. Connect the base and lid by inserting the rod into the hinge section. A vice may help to push the rod in carefully.
-5. Assemble the reservoir holder with four Luer-System adapters, some tubing, and the fixation blocks. 
+5. Assemble the reservoir holder with four Luer adapters, some tubing, and the fixation blocks. 
