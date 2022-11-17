@@ -9,12 +9,12 @@ This repository contains the design files and instructions for the Pocket LoC ho
 ### 3D-printed parts
 The housing is designed for 3D-printing. Although many different options for materials and printer settings are possible, I achieved best results using PETG with a layer height of 0.2mm on an 'Original Prusa i3 MK3S+'. Most standard 3D-printers and materials (e.g. PLA or ABS) should work, although some adjustments of part tolerances may be necessary.
 
-The housing was designed in FreeCAD (see .. for files). Ready-to-print models (.stl) can be found in the STL folder. All parts can be printed without support structures.
+The housing was designed in FreeCAD ([CAD folder](https://github.com/Pocket-LoC/Housing/tree/main/CAD)). Ready-to-print models (.stl) can also be found in the CAD folder. All parts can be printed without support structures.
 
 ### List of parts and tools
 - 3D-printer
 - dark, opaque printing filament (e.g. [black PETG](https://www.prusa3d.com/product/prusament-petg-jet-black-1kg/)) (approx. 30€)
-- Pocket LoC Sensor incl. FFC -> Link
+- [Pocket LoC Sensor](https://github.com/Pocket-LoC/Sensor)
 - Pocket LoC Pump Controller -> Link
 - Metal rod or nail (approx. 1.7mm diameter) for the hinge
 - 4x [Bartels mp6-liq Micropumps](https://darwin-microfluidics.com/collections/piezo-pumps/products/bartels-mp6-micropump) (128€)
@@ -26,7 +26,7 @@ The housing was designed in FreeCAD (see .. for files). Ready-to-print models (.
 - Tweezers
 
 ### Assembly
-1.  Print the housing parts found in the STL folder:
+1.  Print the housing parts found in the CAD folder:
       - Base
       - Lid
       - Reservoir holder
@@ -34,23 +34,25 @@ The housing was designed in FreeCAD (see .. for files). Ready-to-print models (.
       - Chip fixation block (2x)
       - Sensor cover
       
-<img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/00%20all%20components.jpg" width="50%"/>
+      <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/00%20all%20components.jpg" width="50%"/>
    
-2. Connect the FFC to the LED board and insert it in the lid.
+2. Fold the FFC as shown, about 25mm from one end and insert it into the connector on the LED PCB (part of the Pocket LoC sensor). Ensure the contacts of the FFC are facing outwards and the latch of the connector is properly fixed.
 
-<p float="left">
-  <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/10%20top%20components.jpg" width="22%" />
-  <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/11%20top%20assembly.jpg" width="22%" /> 
-  <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/12%20top%20assembly.jpg" width="22%" />
-  <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/13%20top%20assembly.jpg" width="22%" />
-</p>
+      <p float="left">
+        <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/10%20top%20components.jpg" width="22%" />
+        <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/11%20top%20assembly.jpg" width="22%" /> 
+        <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/12%20top%20assembly.jpg" width="22%" />
+        <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/13%20top%20assembly.jpg" width="22%" />
+      </p>
 
-<p float="left">
-  <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/14%20top%20assembly.jpg" width="22%" />
-  <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/15%20top%20assembly.jpg" width="22%" /> 
-  <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/16%20top%20assembly.jpg" width="22%" />
-</p>
+3. Place the LED PCB in the top, threading the FFC through the hole and underneath the two holding bars. Tweezers may help with the last section.
+      <p float="left">
+        <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/14%20top%20assembly.jpg" width="22%" />
+        <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/15%20top%20assembly.jpg" width="22%" /> 
+        <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/16%20top%20assembly.jpg" width="22%" />
+      </p>
 
+4. Fold over the contact section of the FFC end. Then add a second fold, producing a Z-shape, at approx. ?? mm. Fold the FFC over at a right angle directly next to the last fold 
 <p float="left">
   <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/17%20top%20assembly.jpg" width="22%" />
   <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/18%20top%20assembly.jpg" width="22%" /> 
