@@ -1,3 +1,5 @@
+<img align = "right" src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/81%20inserted%20chip.jpg" width="50%" /> 
+
 # Pocket-LoC
 Lab-on-chip (LoC) technology is becoming increasingly relevant, especially in the field of medicine. However, often LoC setups rely on complex lab equipment for operation. The aim of this project is to create an affordable and portable LoC setup as a proof-of-concept for truly pocket-sized LoC - the Pocket LoC.
 
@@ -120,7 +122,4 @@ The housing was designed in FreeCAD ([CAD folder](https://github.com/Pocket-LoC/
 10. Finally, insert one USB cable each for the sensor and pump controller, connect to a PC and start your experiments. Some sample code is provided for both the sensor and pump controller in their repositories to help you get started. Your reagents can simply be connected through the Luer adapters. We suggest the use of 3ml syringes. In some cases you may produce better results if you remove the plungers from the syringes.
 
       <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/70%20usb%20connect.jpg" width="22%" />
-      
-### Completed Setup
-
-<img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/81%20inserted%20chip.jpg" width="50%" /> 
+     
