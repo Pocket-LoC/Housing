@@ -123,7 +123,4 @@ The housing was designed in FreeCAD ([CAD folder](https://github.com/Pocket-LoC/
       
 ### Completed Setup
 
-<p float="left">
-  <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/80%20complete%20setup.jpg" width="40%" />
-  <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/81%20inserted%20chip.jpg" width="40%" /> 
-</p>
+<img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/81%20inserted%20chip.jpg" width="50%" /> 
