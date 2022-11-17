@@ -52,69 +52,76 @@ The housing was designed in FreeCAD ([CAD folder](https://github.com/Pocket-LoC/
         <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/16%20top%20assembly.jpg" width="22%" />
       </p>
 
-4. Fold over the contact section of the FFC end. Then add a second fold, producing a Z-shape, at approx. ?? mm. Fold the FFC over at a right angle directly next to the last fold 
-<p float="left">
-  <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/17%20top%20assembly.jpg" width="22%" />
-  <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/18%20top%20assembly.jpg" width="22%" /> 
-  <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/19%20top%20assembly.jpg" width="22%" />
-</p>
+4. Fold over the contact section of the FFC end. Then add a second fold, producing a Z-shape, at approx. ?? mm. Fold the FFC over at a right angle directly next to the last fold. Finally, add a crease ?? mm from the outer edge of the angled fold. The folded FFC should look similar to the last picture.
 
+      <p float="left">
+        <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/17%20top%20assembly.jpg" width="22%" />
+        <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/18%20top%20assembly.jpg" width="22%" /> 
+        <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/19%20top%20assembly.jpg" width="22%" />
+        <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/19b%20top%20assembly.jpg" width="22%" />
+      </p>
 
-3. Thread the FFC through the holders in the lid.
-4. Connect the base and lid by inserting the rod into the hinge section. A vice may help to push the rod in carefully.
+5. Connect the base and lid by inserting the rod into the hinge section. A vice may help to push the rod in carefully.
 
-<p float="left">
-  <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/20%20hinge%20components.jpg" width="22%" />
-  <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/21%20hinge%20assembly.jpg" width="22%" /> 
-  <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/22%20hinge%20assembled.jpg" width="22%" />
-</p>
+      <p float="left">
+        <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/20%20hinge%20components.jpg" width="22%" />
+        <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/21%20hinge%20assembly.jpg" width="22%" /> 
+        <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/22%20hinge%20assembled.jpg" width="22%" />
+      </p>
 
-<p float="left">
-  <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/30%20sensor%20components.jpg" width="22%" />
-  <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/31%20sensor%20connect.jpg" width="22%" /> 
-  <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/32%20sensor%20insert.jpg" width="22%" />
-  <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/33%20sensor%20assembled.jpg" width="22%" />
-</p>
+6. Connect the sensor PCB to the FFC, again ensuring the contacts are facing outwards and the connector is properly fixed. Put the sensor in the base section with the USB and FFC connectors facing downwards and add the cover. Depending on your print quality, you may have to use a needle or thin drill to ensure the holes in the cover are clear from residue.
 
+      <p float="left">
+        <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/30%20sensor%20components.jpg" width="22%" />
+        <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/31%20sensor%20connect.jpg" width="22%" /> 
+        <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/32%20sensor%20insert.jpg" width="22%" />
+        <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/33%20sensor%20assembled.jpg" width="22%" />
+      </p>
 
-5. Assemble the reservoir holder with four Luer adapters, some tubing, and the fixation blocks. 
+5. Assemble the reservoir holder with four Luer adapters, some tubing, and the fixation blocks. First, connect the tubing to the Luer adapters, then place them in the reservoir holder and add the fixation blocks. The blocks should be flush with the surface of the reservoir holder.
 
-<p float="left">
-  <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/40%20reservoir%20components.jpg" width="22%" />
-  <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/41%20reservoir%20first%20insert.jpg" width="22%" /> 
-  <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/42%20reservoir%20first%20holder.jpg" width="22%" />
-  <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/43%20reservoir%20assembled.jpg" width="22%" />
-</p>
+      <p float="left">
+        <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/40%20reservoir%20components.jpg" width="22%" />
+        <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/41%20reservoir%20first%20insert.jpg" width="22%" /> 
+        <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/42%20reservoir%20first%20holder.jpg" width="22%" />
+        <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/43%20reservoir%20assembled.jpg" width="22%" />
+      </p>
 
-<p float="left">
-  <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/44%20reservoir%20connect.jpg" width="22%" />
-  <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/45%20reservoir%20connected.jpg" width="22%" /> 
-</p>
+6. Connect the reservoir holder to the base section, threading the tubes through the holes on the side.
 
-driver assembly
+      <p float="left">
+        <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/44%20reservoir%20connect.jpg" width="22%" />
+        <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/45%20reservoir%20connected.jpg" width="22%" /> 
+      </p>
 
-<p float="left">
-  <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/50%20driver%20components.jpg" width="22%" />
-  <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/51%20controller%20assembly.jpg" width="22%" /> 
-  <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/52%20first%20pump%20connected.jpg" width="22%" />
-  <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/53%20driver%20assembled.jpg" width="22%" />
-</p>
+7. Assemble the pump driver section, ensuring that the marked "PIN1" on the driver section (Bartels Highdriver-4) is aligned with the USB connector of the pump controller. Then insert the micropumps (Bartels mp6-liq), ensuring that the arrows are facing away from the USB connector, and close the connectors by pushing them down. Tweezers may help if you have to open the connectors again to remove the pumps.
 
-<p float="left">
-  <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/54%20driver%20insert.jpg" width="22%" />
-  <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/55%20driver%20assembled.jpg" width="22%" /> 
-</p>
+      <p float="left">
+        <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/50%20driver%20components.jpg" width="22%" />
+        <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/51%20controller%20assembly.jpg" width="22%" /> 
+        <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/52%20first%20pump%20connected.jpg" width="22%" />
+        <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/53%20driver%20assembled.jpg" width="22%" />
+      </p>
+      
+8. Insert the pump driver section into the base with the pump arrows facing the Pocket LoC logo. You will have to slightly bend the pump wires by pushing the pumps towards the controller. Connect the reservoir inlet and outlet tubing, which can be threaded through underneath the Pocket LoC logo. Again the tweezers may be useful here.
 
-holder assembly
+      <p float="left">
+        <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/54%20driver%20insert.jpg" width="22%" />
+        <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/55%20driver%20assembled.jpg" width="22%" /> 
+      </p>
 
-<p float="left">
-  <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/60%20holder%20components.jpg" width="22%" />
-  <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/61%20holder%20assembled.jpg" width="22%" /> 
-</p>
+9. Insert the chip fixation blocks, used to align the microfluidic chip with the sensor aperatures. Depending on the size and layout of your microfluidic chip you may have to customise the blocks to fit your needs. The CAD folder contains samples for both a centered and one-sided chip placement.
 
-<img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/70%20usb%20connect.jpg" width="22%" />
+      <p float="left">
+        <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/60%20holder%20components.jpg" width="22%" />
+        <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/61%20holder%20assembled.jpg" width="22%" /> 
+      </p>
 
-complete
+10. Finally, insert one USB cable each for the sensor and pump controller, connect to a PC and start your experiments. Some sample code is provided for both the sensor and pump controller in their repositories to help you get started. Your reagents can simply be connected through the Luer adapters. We suggest the use of 3ml syringes. In some cases you may produce better results if you remove the plungers from the syringes.
+
+      <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/70%20usb%20connect.jpg" width="22%" />
+      
+### Completed Setup
 
 <p float="left">
   <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/80%20complete%20setup.jpg" width="40%" />
