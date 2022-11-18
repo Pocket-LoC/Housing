@@ -16,7 +16,7 @@ The housing was designed in FreeCAD ([CAD folder](https://github.com/Pocket-LoC/
 - 3D-printer
 - dark, opaque printing filament (e.g. [black PETG](https://www.prusa3d.com/product/prusament-petg-jet-black-1kg/)) (approx. 30€)
 - [Pocket LoC Sensor](https://github.com/Pocket-LoC/Sensor)
-- Pocket LoC Pump Controller -> Link
+- [Pocket LoC Pump Controller](https://github.com/Pocket-LoC/Pump-Controller)
 - Metal rod or nail (approx. 1.7mm diameter) for the hinge
 - 4x [Bartels mp6-liq Micropumps](https://darwin-microfluidics.com/collections/piezo-pumps/products/bartels-mp6-micropump) (128€)
 - [Bartels Pump Driver](https://darwin-microfluidics.com/collections/piezo-pumps/products/mp-highdriver4-pump-driver) (159€)
