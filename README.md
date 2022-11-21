@@ -53,7 +53,7 @@ The housing was designed in FreeCAD ([CAD folder](https://github.com/Pocket-LoC/
         <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/16%20top%20assembly.jpg" width="22%" />
       </p>
 
-4. Fold over the contact section of the FFC end. Then add a second fold, producing a Z-shape, at approx. ?? mm. Fold the FFC over at a right angle directly next to the last fold. Finally, add a crease ?? mm from the outer edge of the angled fold. The folded FFC should look similar to the last picture.
+4. Fold over the contact section of the FFC end. Then add a second fold, producing a Z-shape, at approx. 10 mm from the previous crease. Fold the FFC over at a right angle directly next to the last fold. Finally, add a crease approx. 15 mm from the outer edge of the angled fold. The folded FFC should look similar to the last picture.
 
       <p float="left">
         <img src="https://github.com/Pocket-LoC/Housing/blob/main/Photos/17%20top%20assembly.jpg" width="22%" />
