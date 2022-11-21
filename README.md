@@ -15,16 +15,18 @@ The housing was designed in FreeCAD ([CAD folder](https://github.com/Pocket-LoC/
 ### List of parts and tools
 - 3D-printer
 - dark, opaque printing filament (e.g. [black PETG](https://www.prusa3d.com/product/prusament-petg-jet-black-1kg/)) (approx. 30€)
-- [Pocket LoC Sensor](https://github.com/Pocket-LoC/Sensor)
-- [Pocket LoC Pump Controller](https://github.com/Pocket-LoC/Pump-Controller)
+- [Pocket LoC Sensor](https://github.com/Pocket-LoC/Sensor) (approx. 65-90€)
+- [Pocket LoC Pump Controller](https://github.com/Pocket-LoC/Pump-Controller) (approx. 50-75€)
 - Metal rod or nail (approx. 1.7mm diameter) for the hinge
 - 4x [Bartels mp6-liq Micropumps](https://darwin-microfluidics.com/collections/piezo-pumps/products/bartels-mp6-micropump) (128€)
 - [Bartels Pump Driver](https://darwin-microfluidics.com/collections/piezo-pumps/products/mp-highdriver4-pump-driver) (159€)
 - [Tubing](https://darwin-microfluidics.com/collections/silicone-tygon-tubing/products/mp-t-1-3-mm-tygon-tubing-for-bartels-micropumps) (9.50€)
 - 4x [Luer Adapters](https://darwin-microfluidics.com/collections/luer-fittings/products/barbed-to-female-luer-adapter-for-1-16-1-8-and-3-32-id-soft-walled-tubing-pack-of-10?variant=32430390018184) (11.40€ for 10)
 - 4x 3ml Syringes as reservoir (approx. 10€ for 100)
-- Microfluidic Chip -> Link
+- [Microfluidic Chip](https://github.com/Pocket-LoC/Chip) (approx. ? €)
 - Tweezers
+
+In total the Pocket LoC costs about 500-600€. The costs scale significantly lower for larger quantities.
 
 ### Assembly
 1.  Print the housing parts found in the CAD folder:
