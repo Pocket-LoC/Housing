@@ -23,10 +23,10 @@ The housing was designed in FreeCAD ([CAD folder](https://github.com/Pocket-LoC/
 - [Tubing](https://darwin-microfluidics.com/collections/silicone-tygon-tubing/products/mp-t-1-3-mm-tygon-tubing-for-bartels-micropumps) (9.50€)
 - 4x [Luer Adapters](https://darwin-microfluidics.com/collections/luer-fittings/products/barbed-to-female-luer-adapter-for-1-16-1-8-and-3-32-id-soft-walled-tubing-pack-of-10?variant=32430390018184) (11.40€ for 10)
 - 4x 3ml Syringes as reservoir (approx. 10€ for 100)
-- [Microfluidic Chip](https://github.com/Pocket-LoC/Chip) (approx. ? €)
+- [Microfluidic Chip](https://github.com/Pocket-LoC/Chip) (approx. 250€ for many chips)
 - Tweezers
 
-In total the Pocket LoC costs about 500-600€. The costs scale significantly lower for larger quantities.
+In total the Pocket LoC costs about 600-800€, depending on the choice of materials and manufacturers. The costs scale significantly lower for larger quantities.
 
 ### Assembly
 1.  Print the housing parts found in the CAD folder:
