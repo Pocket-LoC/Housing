@@ -7,6 +7,8 @@ Pocket LoC can be assembled with standard equipment found in a typcial engineeri
 ## Housing
 This repository contains the design files and instructions for the Pocket LoC housing as well as the assembly instructions and parts lists required for the complete setup.
 
+Feel free to contact me if you interested in a complete Pocket LoC device.
+
 ### 3D-printed parts
 The housing is designed for 3D-printing. Although many different options for materials and printer settings are possible, I achieved best results using PETG with a layer height of 0.2mm on an 'Original Prusa i3 MK3S+'. Most standard 3D-printers and materials (e.g. PLA or ABS) should work, although some adjustments of part tolerances may be necessary.
 
